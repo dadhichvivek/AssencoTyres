@@ -1,0 +1,648 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+}
+/*** Large screen view ***/
+@media (min-width: 1200px) {
+    /* gopi start */
+    .map .mapouter {
+        padding-top: 77.5%;
+    }
+    .enquiry-form .wpcf7 .wpcf7-form-control.country-code {
+        width: 35%;
+    }
+    .enquiry-form .wpcf7 .wpcf7-form-control.mob-number {
+        width: 63%;
+    }
+    /* gopi end */
+}
+@media (min-width: 1900px) {}
+@media (min-width: 1650px) and (max-width: 1899px) {}
+@media (min-width:1351px) and (max-width:1500px){
+    .h-225px {
+        height: 200px !important;
+    }
+    .w-90{
+        width: 95%;
+    }
+}
+@media (min-width:1100px) and (max-width:1350px){
+    .box-shadow-img.max-height-500 {
+        height: 400px;
+    }
+    .h-225px {
+        height: 190px !important;
+    }
+    .w-90{
+        width: 100%;
+    }
+    .select-selected.font-20 {
+        font-size: 16px;
+    }
+}
+/*** Tab view ***/
+@media (max-width: 1200px) {
+    
+}
+@media (min-width: 992px) {
+    /* gopi start */
+    .ml-60px {
+        margin-left: 60px;
+    }
+    .mapouter {
+        padding-top: 92.6%;
+    }
+    .enquiry-form .wpcf7-form-control.country-code {
+        width: 32%;
+    }
+    .enquiry-form .wpcf7-form-control.mob-number {
+        width: 65%;
+    }
+    .select-selected:after {
+        top: 20px;
+        right: 40px;
+      }
+      .select-selected.select-arrow-active:after {
+        top: 15px;
+      }
+    /* gopi end */
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    .nickx-slider-for .slick-slide video{
+        height:240px;
+    }
+    .warranty-domestic, .warranty-international{
+        overflow: scroll;        
+    }
+    .domestic-tab.font-18, .international-tab.font-18{
+        font-size: 14px;
+    }
+    .woocommerce-product-details__short-description h3 {
+        padding: 20px 0 12px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .woo_catalog_enquiry_btn {
+        padding: 10px 30px !important;
+        font-size: 14px !important;
+        line-height: 14px;
+    }
+    .warrenty-section .px-4>img{
+        width:135px;
+    }
+    .warrenty-section .font-36{
+        font-size: 26px;
+    }
+    .orange-lists.line-height-18px {
+        line-height: 12px;
+    }
+    .image-swiper-container .h-360px, .video-swiper-container iframe {
+        height: 300px;
+    }
+    .box-shadow-img.max-height-500 {
+        height: 350px;
+    }
+    h4, .title-h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .title-h1 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .font-18 {
+        font-size: 16px;
+    }
+    .home-main-slider .vh-100-90px{
+        height: auto;
+    }
+    .max-height-750 {
+        max-height: 500px;
+    }
+    #locations-top li a {
+        font-size: 13px;        
+    }
+}
+@media (max-width: 992px) {
+    .site-footer .col-12.col-lg-7.float-right.pl-0{
+        width:200px;
+    }
+    /* gopi start */
+    .map {
+        margin-top: 30px;
+    }
+    /* gopi end */
+}
+ /* gopi start */
+@media (min-width: 768px) {
+    .map .nav-tabs .nav-link {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+}
+@media (min-width: 576px) {
+    .framework-empty,
+    .framework-icon {
+        padding: 0;
+    }
+    .framework-icon img {
+        float: right;
+    }
+}
+ /* gopi end */
+@media (min-width: 768px) and (max-width: 992px) {
+	.w-550px {
+		width: 450px;
+	}
+	.font-100px {
+    font-size: 75px;
+    line-height: 70px;
+}
+	.font-40px {
+    font-size: 28px;
+}
+	#introducing-modal .modal-content {
+    height: 448px;
+	background: transparent;
+}
+	.font-45px {
+    font-size: 35px;
+}
+	#introducing-modal .font-26 {
+    font-size: 20px !important;
+}
+    .enquiry-form .wpcf7-form-control.country-code {
+        width: 20%;
+        padding: 0 5px;
+    }
+    .enquiry-form .wpcf7-form-control.mob-number {
+        width: 78%;
+    }
+    .wpcf7-form-control.wpcf7-submit.btn-submit {
+        padding: 6px 15px;
+        font-size: 12px;
+    }
+    .woocommerce-product-details__short-description h3 {
+        padding: 20px 0 12px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .woo_catalog_enquiry_btn {
+        padding: 10px 30px !important;
+        font-size: 14px !important;
+        line-height: 14px;
+    }
+    .warrenty-section th, .warrenty-section tr:nth-child(2) td, table th span{
+        font-size: 12px !important;
+    }
+    .warranty-domestic, .warranty-international{
+        overflow: scroll;
+        width: 90% !important;
+        margin: 0 auto;
+    }
+    .warrenty-section th {
+        padding: 8px 20px;
+    }
+    .woocommerce div.product div.images, .woocommerce div.product div.summary{
+        width:48% !important;
+        float:left !important;
+    }
+    .nickx-slider-for .slick-slide video{
+        height:160px;
+    }
+    .woocommerce-product-details__short-description h3 {
+        padding: 15px 0 10px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .product.type-product .h-225px {
+        height: 150px !important;
+    }
+    .orange-lists.line-height-18px {
+        line-height: 10px;
+    }
+    .w-90 {
+        width: 100%;
+    }
+    .select2-container--default .select2-selection--single .select2-selection__rendered {
+        font-size: 14px !important;
+    }
+    .w-250px, #tyre-selector-form-pge .select2-container {
+        width: 200px !important;
+    }
+    img.h-650px {
+        height: 600px;
+    }
+    .news-media-sections .h-100px {
+        height: 75px;
+    }
+    .image-swiper-container .h-360px, .video-swiper-container iframe {
+        height: 200px;
+    }
+    .box-shadow-img.max-height-500 {
+        height: 300px;
+    }
+    h4, .title-h4 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .title-h1 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .home-main-slider .vh-100-90px{
+        height: auto;
+    }
+    h1>br, h2>br{
+        display: none;
+    }
+    .max-height-750 {
+        max-height: 450px;
+    }
+    .news-media-section.max-height-750 {
+        max-height: 100%;
+    }
+    .news-media-section.vh-100-90px {
+        height: 100%;
+    }
+    .w-400px {
+        width: 100%;
+    }
+    .about-sec iframe{
+        height: 225px;
+    }
+    #navbar-content {
+        position: absolute;
+        top: 60px;
+        width: 350px;
+    }
+    h1, h2, h3, .title-h3 {
+        font-size: 25px;
+    }
+    .font-18, .font-20 {
+        font-size: 14px !important;
+    }
+    .social-icon-section img{
+        width:25px;
+    }
+    #media_image-2{
+        text-align: right;
+        float:right;
+        width:150px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+	.nickx-slider-for .slick-slide video{
+        width:98%;
+    }
+	.slick-slide{
+		text-align:center;
+	}
+}
+
+/*** mobile view ***/
+@media (max-width: 767px) {
+	#search-testimonial-btn, #search_title{
+		padding: 10px 15px;
+    	font-weight: bold;
+	}
+	#introducing-modal .modal-content {
+    height: 583px;
+/*     width: auto; */
+	background-color: transparent;
+}
+	.mh-650px{
+		height:600px;
+	}
+	#introducing-modal .close {
+    right:6px;
+    top: -8px;
+    font-size: 45px;
+}
+
+	#introducing-modal .close:after {
+    right: -5px;
+    top: 8px;
+    width: 35px;
+    height: 35px;
+}
+	.w-550px{
+/* 		width:100%; */
+		padding: 0px 50px !important;
+	}
+	.object-fit-md-cover{
+		object-fit:cover;
+	}
+	.font-40px {
+		font-size: 21px;
+    	font-weight: 100;
+	}
+	.font-45px {
+		font-size: 24px;
+		font-weight: 100;
+	}
+	#introducing-modal .font-26 {
+		font-size: 14px !important;
+	}
+	.font-100px {
+		font-size: 50px;
+		line-height: 50px;
+	}
+    .wpcf7-form-control.wpcf7-submit.btn-submit {
+        padding: 6px 15px;
+        font-size: 12px;
+    }
+    .page-template-page-career .treeplan .icon-prev-arrow{
+        left: -10px;
+    }
+    .page-template-page-career .treeplan .icon-next-arrow{
+        right: -10px;
+    }
+    .expert-form .wpcf7-form-control.wpcf7-text, .expert-form .wpcf7-form-control.wpcf7-select, .expert-form .select2-container--default .select2-selection--single .select2-selection__rendered, .expert-form .wpcf7-form-control::-webkit-input-placeholder, .expert-form .wpcf7-form-control::-moz-placeholder, .expert-form .wpcf7-form-control:-ms-input-placeholder, .expert-form .wpcf7-form-control::placeholder, .font-14{
+        font-size: 10px !important;
+    }
+    #media_image-2 {
+        width: 100%;
+    }
+    .image-swiper-container .h-360px, .video-swiper-container iframe{
+        height: 250px;
+    }
+   .home-swiper-container .swiper-slide img{
+        padding-bottom:25px;
+    }
+    .swiper-pagination-bullet{
+        background:#333 !important;
+    }
+    .swiper-pagination-bullet-active{
+        background: #e15111 !important;
+    }
+    .domestic-tab.font-18, .international-tab.font-18{
+        font-size: 11px;
+    }
+    .woocommerce-product-details__short-description h3 {
+        padding: 20px 0 12px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .woo_catalog_enquiry_btn {
+        padding: 10px 30px !important;
+        font-size: 14px !important;
+        line-height: 14px;
+    }
+    .warrenty-section th {
+        padding: 8px 20px;
+    }
+    table tr td span {
+        font-size: 10px !important;
+    }
+    .warrenty-section th, .warrenty-section tr:nth-child(2) td, table th span{
+        font-size: 12px !important;
+    }
+    .font-36 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .product.type-product .h-225px {
+        height: 150px !important;
+    }
+    .woocommerce-breadcrumb .font-18{
+        font-size:12px !important;
+    }
+    .nickx-slider-for .slick-slide video{
+        height:160px;
+		width:98%;
+    }
+	.slick-slide{
+		text-align:center;
+	}
+    .woocommerce div.product div.images {
+        padding: 19px;
+    }
+    .warranty-domestic, .warranty-international{
+        overflow: scroll;
+        width: 90% !important;
+        margin: 0 auto;
+    }
+    .agriculture {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .font-26 {
+        font-size: 18px !important;
+    }
+    .w-90 {
+        width: 100%;
+    }
+    .card-lists .h-225px {
+        height: 175px !important;
+    }
+    .address-bar-manufacturing {
+        width:100%;
+        left:0;
+        padding: 20px 6px;
+    }
+    .mapouter {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-top: 120px;
+    }
+    .mapouter iframe {
+        height: 100%;
+        left: 0;
+        position: relative;
+        top: 0;
+        width: 100%;
+    }
+    .address-bar {
+        right:0;
+        width:100%;
+    }
+    .font-15 {
+        font-size: 13px;
+    }
+    .border-top-left-radius-15, .m-border-top-left-radius-15, .border-top-right-radius-15{
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .w-250px, #tyre-selector-form-pge .select2-container {
+        width: 100% !important;
+    }
+    img.h-650px {
+        height: 1250px;
+    }
+    .news-media-sections .border-left-top{
+        border-right: 0;
+        padding-right: 0;
+    }
+
+    .news-media-sections .border-left-top:after {
+        background-color: transparent;
+        width: 0;
+        height: 0;
+        right: 0;
+    }
+    .box-shadow-img.max-height-500 {
+        height: 125px;
+    }
+    .our-vision .border-right-1px{
+        border-right:0;
+    }
+    h4, .title-h4 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    #locations-top li a, .select2-container--default .select2-selection--single .select2-selection__rendered {
+        font-size: 14px !important;
+    }
+    .min-height-550 {
+        min-height:100%;
+    }
+    .select2-container--default .select2-selection--single .select2-selection__rendered {
+        font-size: 14px;
+    }
+    .about-sec .min-height-550 {
+        min-height: 655px;
+    }
+    .news-media-swiper-container .min-h-140px {
+        min-height: 75px;
+    }
+    .plr {
+        padding-left: 10px !important;
+        padding-right: 35px !important;
+    }
+    .title-h1 {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .down-arrow:after {
+        right: 8px;
+        border: 6px solid transparent;
+        border-color: #000 transparent transparent transparent;
+    }
+    #btm-submenu{
+        min-width:175px;
+    }
+    .modal-dialog {
+        min-height: calc(100vh - 20px);
+      }
+    .home-main-slider .vh-100-90px{
+        height: auto;
+    }
+    .about-sec .max-height-750{
+        max-height:645px !important;
+    }
+    .select-tyre-sec .max-height-750{
+        max-height:300px;
+    }
+    .about-sec .vh-100-90px{
+        height: 625px;
+    }
+    
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        bottom: 10px !important;
+    }
+    h1>br, h2>br{
+        display: none;
+    }
+    .object-position-left{
+        object-position:left;
+    }
+    .home-main-slider .swiper-slide h2.text-black{
+        background-color:#fff;
+        padding:7px;
+    }
+    .widget.widget_media_image img{
+        width:150px;
+    }
+    .w-400px, .w-300px {
+        width: 100%;
+    }
+    .max-height-750 {
+        max-height: 450px;
+    }
+    .news-media-section.max-height-750 {
+        max-height: 100%;
+    }
+    .news-media-section.vh-100-90px {
+        height: 100%;
+    }
+    #navbar-content {
+        position: absolute;
+        top: 60px;
+        width: 300px;
+    }
+    h1, h2, h3, .title-h3 {
+        font-size: 20px;
+        line-height: 20px;
+        font-weight: 600;
+    }
+    .font-18, .font-20, footer.site-footer .menu li a {
+        font-size: 14px;
+    }
+    .social-icon-section img{
+        width:22px;
+    }
+    /* gopi start */
+    .enquiry-form .wpcf7-form-control.country-code {
+        width: 28%;
+    }
+    .enquiry-form .wpcf7-form-control.mob-number {
+        width: 70%;
+    }
+    /* gopi end */
+}
+@media (min-width: 600px) and (max-width: 992px) {}
+@media (max-width: 600px) {}
+@media (max-width: 575px) {
+    .framework-icon {
+        text-align: center;
+    }
+}
+@media (max-width: 480px) {
+    /* gopi start */
+    .enquiry-form .wpcf7-form-control.country-code {
+        width: 30%;
+    }
+    .enquiry-form .wpcf7-form-control.mob-number {
+        width: 67%;
+    }
+    .map .nav-tabs .nav-link {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    /* gopi end */
+	
+	/* added to space by man dated 31Jan2022*/
+.pdt-nav > .px-0{font-size: 11px; padding-left: .25rem !important;} 
+.pdt-nav > .px-0 .agriculture{font-size: 13px; line-height: 16px;}
+	
+	
+}
+@media (max-width: 380px) {}
+@media (max-width: 359px) {
+	.font-40px {
+    font-size: 18px;
+    font-weight: 100;
+}
+	#introducing-modal .font-26 {
+    font-size: 12px !important;
+}
+	.font-45px {
+    font-size: 22px;
+    font-weight: 100;
+}
+	.font-100px {
+    font-size: 40px;
+    line-height: 38px;
+}
+}
+@media (max-width: 340px){
+    .social-icon-section img {
+        width: 22px;
+    }    
+    .address-bar {
+        padding: 20px 6px;
+    }
+    .about-sec .max-height-750{
+        max-height:625px !important;
+    }
+}
